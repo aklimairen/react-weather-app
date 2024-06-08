@@ -1,6 +1,8 @@
 import { ChangeEvent } from 'react'
 import { optionType } from '../type'
 
+
+
 type Propes = {
   term: string
   options: []
